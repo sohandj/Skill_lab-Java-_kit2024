@@ -18,9 +18,6 @@ public class BinarySearch {
 				System.out.println("Found at position :" + i+1);
 				break;
 			}
-//			else {
-//				
-//			}
 			sc.close();
 		}
 		System.out.println("not found");
